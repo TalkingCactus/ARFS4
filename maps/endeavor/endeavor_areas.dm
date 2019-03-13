@@ -286,3 +286,7 @@ area/security/hallway
 	base_turf = /turf/simulated/sky
 
 
+area/salvage_platform
+	name = "\improper Engineering Salvage Platform"
+area/salvage_zone
+	name = "\improper Salvage Zone"
