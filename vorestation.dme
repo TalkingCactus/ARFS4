@@ -3014,6 +3014,7 @@
 #include "code\ZAS\Zone.dm"
 #include "content_arfs\code\areas.dm"
 #include "content_arfs\code\jukebox.dm"
+#include "content_arfs\code\salvage_computer.dm"
 #include "content_arfs\code\stylesheet.dm"
 #include "content_arfs\code\donater\devices.dm"
 #include "content_arfs\code\donater\hats.dm"
